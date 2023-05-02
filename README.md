@@ -2,7 +2,7 @@
 
     
 <div align="center">
-<b>Bot developer | BCC undergraduate | Robotics enthusiast | Cat owner | 🐍🤖🐱</b>
+<b>Bot developer | CS undergraduate | Robotics enthusiast | Cat owner | 🐍🤖🐱</b>
 <br>
 <br>
 
@@ -40,7 +40,7 @@ I have experience with Robotics, Automation, Bot development, Web development, a
 
 My main abilities include designing and coding bots for discord, solving programming challenges, studying robotics and developing websites and mobile apps.
 
-I'm currently studying at UFMS in Ciência da Computação.
+I'm currently studying Computer Science at UFMS
     
 </details>
 
