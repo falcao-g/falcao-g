@@ -32,13 +32,8 @@ I am pretty much a life long learner. I enjoy the idea of **Learning in Public**
 
 I have experience with Robotics, Automation, Bot development, Web development, and Back-end web programming. My main knowledge in technologies are **Python**, **Javascript**, **Node.JS**, **HTML/CSS**, **React native**, **Arduino**. I am also comfortable using **Typescript**, **React**, **Electron**, **Vue**, and **Dynamic Programming**.
 
-<div align="right" style="margin:auto">
-    <a href="https://wakatime.com/@falcao_g">
-        <img width="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=falcao_g&theme=transparent&hide_border=true&hide=markdown&hide_title=true&line_height=50&langs_count=4&layout=default" alt="Wakatime stats" align="right" />
-    </a>
-</div>
-
-My main abilities include designing and coding bots for discord, solving programming challenges, studying robotics and developing websites and mobile apps.
+My main abilities include designing and coding bots for discord, solving programming challenges, studying robotics<br>
+and developing websites and mobile apps.
 
 I'm currently studying Computer Science at UFMS
     
