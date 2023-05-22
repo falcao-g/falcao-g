@@ -8,7 +8,7 @@
 
 <blockquote>
     <p><i>
-        A thoughtful person that likes to learn new things, live new experiences and loves meeting new people and helping or be helped by them. 
+        This person is open-minded and eager to learn, always seeking new experiences and opportunities to meet and assist others, while also being receptive to receiving help when needed. 
     </i></p>
 </blockquote>
 </div>
