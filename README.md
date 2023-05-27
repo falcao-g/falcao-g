@@ -43,5 +43,5 @@ I'm currently studying Computer Science at UFMS
 <div align="center">
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/falcao__g)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-pereira-falc%C3%A3o-48bba1277/)
 </div>
