@@ -47,6 +47,7 @@
 ![Selenium](https://img.shields.io/badge/selenium-1B1D1E?style=for-the-badge&logo=selenium&logoColor=white)
 </details>
 
+
 <details>
   <summary>Database</summary>
   
@@ -77,6 +78,7 @@
 ![Arduino](https://img.shields.io/badge/arduino-189BA0.svg?style=for-the-badge&logo=arduino&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 </details>
 
 
