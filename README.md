@@ -14,10 +14,13 @@
 </p>
 
 ## **🐱‍💻 About me:**
-* Gabriel Falcão, 18 years
-* I aim to be a data scientist
-* Currently studying Python, Data Science and Statistics
-* I also want to help others by contributing to open source
+* 👨‍💻 Gabriel Falcão, 18 years
+* 📊 I aim to be a data scientist one day
+* 🤖 I love building discord bots and studying data structures
+* 📚 Currently studying Python, Data Science and Backend development
+* 🧠 I'm enthusiastic about robotics and educational programs
+* 🌐 I like creating and supporting open source projects
+* 💜 I'm always trying to be a reference for everyone in my topics of interest
     
 
 ## **💬 My skills:**
