@@ -44,7 +44,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![C/C++](https://img.shields.io/badge/c/c++-02599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Gitbook](https://img.shields.io/badge/Gitbook-%23000000.svg?style=for-the-badge&logo=gitbook&logoColor=white)
+![Gitbook](https://img.shields.io/badge/Gitbook-90B0FF.svg?style=for-the-badge&logo=gitbook&logoColor=white)
 
 ![Vue.js](https://img.shields.io/badge/vue.js-%2320232a.svg?style=for-the-badge&logo=vue.js&logoColor=%2361DAFB)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
@@ -56,9 +56,9 @@
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Netlify](https://img.shields.io/badge/netlify-05BDBA.svg?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-D93118.svg?style=for-the-badge&logo=npm&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
