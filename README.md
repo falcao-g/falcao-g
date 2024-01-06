@@ -27,7 +27,7 @@
     <img src="https://komarev.com/ghpvc/?username=falcao-g&style=for-the-badge"/>
 </div>
 
-### **🐱‍💻 About me:**
+## **🐱‍💻 About me:**
 * 👨‍💻 Gabriel Falcão, 18 years
 * 📊 I aim to be a data scientist one day
 * 🤖 I love building discord bots and studying data structures
@@ -36,18 +36,18 @@
 * 🌐 I like creating and supporting open source projects
 * 💜 I'm always trying to be a reference for everyone in my topics of interest
 
-### 💻 Skills and Tools
+## 💻 Skills and Tools
 
 ![My skills and tools: html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=py,html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman&theme=dark&perline=13)
 
-### ✍️ **My dev.to articles:**
+## ✍️ **My dev.to articles:**
 
 - [Como criar um bot do discord com javascript](https://dev.to/falcao_g/como-criar-um-bot-do-discord-com-javascript-19im)
 - [How to create a discord bot with javascript](https://dev.to/falcao_g/how-to-create-a-discord-bot-with-javascript-f61)
 
-### 🐦 **My Threads on Twitter (PT-BR):**
+## 🐦 **My Threads on Twitter (PT-BR):**
 
-#### 🔍 Programação competitiva (Python)
+### 🔍 Programação competitiva (Python)
 
 - [Inputs e outputs rápidos](https://twitter.com/falcao__g/status/1652067259378987008)
 - [Conjuntos](https://twitter.com/falcao__g/status/1669118096211169280)
@@ -61,7 +61,7 @@
 - [Filas de prioridade](https://twitter.com/falcao__g/status/1692599375220875404)
 - [Grafos](https://twitter.com/falcao__g/status/1698772617983848796)
 
-### 🧠 [My book on competitive programming (PT-BR)](https://facompetindo.gitbook.io/programacao-competitiva/) 
+## 🧠 [My book on competitive programming (PT-BR)](https://facompetindo.gitbook.io/programacao-competitiva/) 
 
 <div align="center">
    <img width="45.5%" height="195px" alt=gitstats src="https://github-readme-stats.vercel.app/api?username=falcao-g&theme=synthwave">
