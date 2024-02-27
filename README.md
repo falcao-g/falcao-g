@@ -46,6 +46,8 @@
 - [How to create a discord bot with javascript](https://dev.to/falcao_g/how-to-create-a-discord-bot-with-javascript-f61)
 - [Array Destructuring no Javascript, você sabe o que é?](https://dev.to/falcao_g/array-destructuring-no-javascript-voce-sabe-o-que-e-1m6o)
 - [Array Destructuring in Javascript, do you know what it is?](https://dev.to/falcao_g/array-destructuring-in-javascript-do-you-know-what-it-is-1k4j)
+- [Aumente sua produtividade com a Github CLI](https://dev.to/falcao_g/aumente-sua-produtividade-com-a-github-cli-2969)
+- [Increase your productivity with the Github CLI](https://dev.to/falcao_g/increase-your-productivity-with-the-github-cli-8ia)
 
 ## 🐦 **My Threads on Twitter (PT-BR):**
 
