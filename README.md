@@ -23,7 +23,7 @@
 </p>
 
 <div align="center">
-    <a href="https://github/pedroperegrinaa"><img alt="github followers" src="https://img.shields.io/github/followers/falcao-g?color=181717&logo=github&style=for-the-badge&label=github" /></a>
+    <a href="https://github/falcao-g"><img alt="github followers" src="https://img.shields.io/github/followers/falcao-g?color=181717&logo=github&style=for-the-badge&label=github" /></a>
     <img src="https://komarev.com/ghpvc/?username=falcao-g&style=for-the-badge"/>
 </div>
 
