@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-    <a href="https://twitter.com/falcao__g">
-        <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
+    <a href="https://bsky.app/profile/falcao-g.bsky.social">
+        <img alt="Bluesky" src="https://img.shields.io/badge/bluesky-%231DA1F2.svg?style=for-the-badge&logo=bluesky&logoColor=white">
     </a>
     <a href="https://www.linkedin.com/in/falcao-g">
         <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -48,22 +48,6 @@
 - [Array Destructuring in Javascript, do you know what it is?](https://dev.to/falcao_g/array-destructuring-in-javascript-do-you-know-what-it-is-1k4j)
 - [Aumente sua produtividade com a Github CLI](https://dev.to/falcao_g/aumente-sua-produtividade-com-a-github-cli-2969)
 - [Increase your productivity with the Github CLI](https://dev.to/falcao_g/increase-your-productivity-with-the-github-cli-8ia)
-
-## 🐦 **My Threads on Twitter (PT-BR):**
-
-### 🔍 Programação competitiva (Python)
-
-- [Inputs e outputs rápidos](https://twitter.com/falcao__g/status/1652067259378987008)
-- [Conjuntos](https://twitter.com/falcao__g/status/1669118096211169280)
-- [Prefix sum](https://twitter.com/falcao__g/status/1653138617500311579)
-- [Algoritmo de euclides](https://twitter.com/falcao__g/status/1653888852262633474)
-- [Crivo de Erástotenes](https://twitter.com/falcao__g/status/1654956607187369984)
-- [Busca binária](https://twitter.com/falcao__g/status/1656078617816735744)
-- [Soma Máxima em um Intervalo](https://twitter.com/falcao__g/status/1657529079480872960)
-- [Algoritmo Guloso](https://twitter.com/falcao__g/status/1667263386453770240)
-- [Filas](https://twitter.com/falcao__g/status/1687925610369138688)
-- [Filas de prioridade](https://twitter.com/falcao__g/status/1692599375220875404)
-- [Grafos](https://twitter.com/falcao__g/status/1698772617983848796)
 
 ## 🧠 [My book on competitive programming (PT-BR)](https://facompetindo.gitbook.io/programacao-competitiva/) 
 
