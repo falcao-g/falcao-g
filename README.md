@@ -28,7 +28,7 @@
 </div>
 
 ## **🐱‍💻 About me:**
-* 👨‍💻 Gabriel Falcão, 18 years
+* 👨‍💻 Gabriel Falcão, 19 years
 * 📊 I aim to be a data scientist one day
 * 🤖 I love building discord bots and studying data structures
 * 📚 Currently studying Python, Data Science and Backend development
@@ -42,11 +42,15 @@
 
 ## ✍️ **My dev.to articles:**
 
+### 🇧🇷 Portuguese:
+
 - [Como criar um bot do discord com javascript](https://dev.to/falcao_g/como-criar-um-bot-do-discord-com-javascript-19im)
-- [How to create a discord bot with javascript](https://dev.to/falcao_g/how-to-create-a-discord-bot-with-javascript-f61)
 - [Array Destructuring no Javascript, você sabe o que é?](https://dev.to/falcao_g/array-destructuring-no-javascript-voce-sabe-o-que-e-1m6o)
-- [Array Destructuring in Javascript, do you know what it is?](https://dev.to/falcao_g/array-destructuring-in-javascript-do-you-know-what-it-is-1k4j)
 - [Aumente sua produtividade com a Github CLI](https://dev.to/falcao_g/aumente-sua-produtividade-com-a-github-cli-2969)
+
+### 🗺️ English:
+- [How to create a discord bot with javascript](https://dev.to/falcao_g/how-to-create-a-discord-bot-with-javascript-f61)
+- [Array Destructuring in Javascript, do you know what it is?](https://dev.to/falcao_g/array-destructuring-in-javascript-do-you-know-what-it-is-1k4j)
 - [Increase your productivity with the Github CLI](https://dev.to/falcao_g/increase-your-productivity-with-the-github-cli-8ia)
 
 ## 🧠 [My book on competitive programming (PT-BR)](https://facompetindo.gitbook.io/programacao-competitiva/) 
