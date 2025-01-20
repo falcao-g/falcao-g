@@ -1,7 +1,7 @@
 <h2 align="center"> Falcão </h1>
 
 <p align="center">
-    <b>Bot developer | CS undergraduate | Robotics enthusiast | Cat owner | 🐍🤖🐱</b>
+    <b>Bot developer | CS undergraduate | Competitive programmer | Robotics enthusiast | Cat owner | 🐍🤖🐱</b>
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
         <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://www.npmjs.com/~falcao_g">
-        <img alt="npm" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"/>
+        <img alt="npm" src="https://img.shields.io/badge/NPM-CB0200?style=for-the-badge&logo=npm&logoColor=white"/>
     </a>
      <a href="https://dev.to/falcao_g">
        <img alt="dev.to" src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
@@ -29,16 +29,15 @@
 
 ## **🐱‍💻 About me:**
 * 👨‍💻 Gabriel Falcão, 19 years
-* 📊 I aim to be a data scientist one day
-* 🤖 I love building discord bots and studying data structures
-* 📚 Currently studying Python, Data Science and Backend development
+* 🤖 I love building discord bots and studying for programming competitions
+* 📚 Currently studying Data structures, C++ and Typescript
 * 🧠 I'm enthusiastic about robotics and educational programs
 * 🌐 I like creating and supporting open source projects
 * 💜 I'm always trying to be a reference for everyone in my topics of interest
 
 ## 💻 Skills and Tools
 
-![My skills and tools: html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=py,html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman&theme=dark&perline=13)
+![My skills and tools: html,css,js,nodejs,typescript,c,cpp,vue,nuxtjs,django,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman](https://skillicons.dev/icons?i=py,html,css,js,nodejs,typescript,c,cpp,express,netlify,postgres,mongodb,bots,raspberrypi,linux,bash,git,vscode,github,vercel,markdown,arduino,postman&theme=dark&perline=13)
 
 ## ✍️ **My dev.to articles:**
 
