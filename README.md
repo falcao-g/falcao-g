@@ -17,6 +17,9 @@
     <a href="https://www.npmjs.com/~falcao_g">
         <img alt="npm" src="https://img.shields.io/badge/NPM-CB0200?style=for-the-badge&logo=npm&logoColor=white"/>
     </a>
+    <a href="https://jsr.io/user/462402f2-0c5f-4c5a-9787-aa5068da7195">
+        <img alt="jsr" src="https://img.shields.io/badge/jsr-E6CE0C?style=for-the-badge&logo=jsr&logoColor=white"/>
+    </a>
      <a href="https://dev.to/falcao_g">
        <img alt="dev.to" src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"/>
      </a>
